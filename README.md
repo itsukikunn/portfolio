@@ -9,7 +9,7 @@ Diterbitkan oleh: Kementerian Hukum dan Hak Asasi Manusia Republik Indonesia
 Tanggal Pencatatan: 17 Juni 2025  
 Tanggal Pengumuman: 10 Juni 2025  
 Jenis Ciptaan: Program Komputer  
-Pencipta: Injil Karepowan, Saniyyah Intan Salsabiila, Ahmad Zuhair Nur Aiman, dkk  
+Pencipta: Injil Karepowan, Saniyyah Intan Salsabiila, Ahmad Zuhair Nur Aiman, Dimas Raditya Permana, Christian Farrel, Muhammad Agil Firmansyah 
 
 Tentang Saya
 
