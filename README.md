@@ -10,9 +10,8 @@ Tanggal Pencatatan: 17 Juni 2025
 Tanggal Pengumuman: 10 Juni 2025  
 Jenis Ciptaan: Program Komputer  
 Pencipta: Injil Karepowan, Saniyyah Intan Salsabiila, Ahmad Zuhair Nur Aiman, dkk  
-Lihat Sertifikat --> (./sertifikat_PBO.pdf)
 
-📌 Tentang Saya
+Tentang Saya
 
 Mahasiswa aktif semester 5 jurusan Informatika, Universitas Mulawarman. Memiliki ketertarikan pada pengembangan web (frontend), keamanan siber, serta desain antarmuka pengguna (UI) dan pengalaman pengguna (UX)
 
