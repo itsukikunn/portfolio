@@ -13,7 +13,7 @@ Pencipta: Injil Karepowan, Saniyyah Intan Salsabiila, Ahmad Zuhair Nur Aiman, Di
 
 Tentang Saya
 
-Mahasiswa aktif semester 5 jurusan Informatika, Universitas Mulawarman. Memiliki ketertarikan pada pengembangan web (frontend), keamanan siber, serta desain antarmuka pengguna (UI) dan pengalaman pengguna (UX)
+Mahasiswa aktif semester 5 jurusan Informatika, Universitas Mulawarman. Memiliki ketertarikan pada pengembangan web (frontend) dan desain antarmuka pengguna (UI) dan pengalaman pengguna (UX)
 
 📫 Email: aimanzuhair05@gmail.com  
 🌐 LinkedIn: https://www.linkedin.com/in/ahmadzuhair05/
